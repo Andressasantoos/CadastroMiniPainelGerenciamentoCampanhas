@@ -70,7 +70,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## 💻 Para Utilizar 
 - Importe o arquivo bd_gerenciamento.sql ao banco de dados [MySql](https://www.mysql.com/),
 - Coloque a pasta do projeto no seu servidor local,
--Acesse o projeto com o seguinte link 
+- Acesse o projeto com o seguinte link 
 
 ```bash
 
